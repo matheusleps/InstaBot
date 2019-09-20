@@ -140,8 +140,8 @@ class InstagramBot:
 
 
 
-usuario = 'lpeventos08'
-senha = 'l15789954'
+usuario = ''
+senha = ''
 print('Usuário:')
 #usuario = input(usuario)
 print('Senha:')
