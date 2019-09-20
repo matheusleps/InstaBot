@@ -148,11 +148,12 @@ print('Senha:')
 #senha = input(senha)
 tags = [] 
 tag = ''
+print('PARA INICIAR A APLICAÇÃO DIGITE: start')
 while True:
-    print('//exit para sair//\nDigite a tag:')
+    print('Insira uma tag:')
     tag = ''
     tag = input(tag)    
-    if tag == 'exit':
+    if tag == 'start':
         break
     tags.append(tag)  
 seguirTag = 'nao seguir'
